@@ -7,3 +7,39 @@
 [06-Mar-2025 00:39:12 UTC] Invalid url passed to get_utm_ready_link function
 [06-Mar-2025 00:50:01 UTC] Invalid url passed to get_utm_ready_link function
 [06-Mar-2025 00:50:01 UTC] Invalid url passed to get_utm_ready_link function
+[06-Mar-2025 01:32:50 UTC] Invalid url passed to get_utm_ready_link function
+[06-Mar-2025 01:32:50 UTC] Invalid url passed to get_utm_ready_link function
+[08-Mar-2025 04:02:20 UTC] Invalid url passed to get_utm_ready_link function
+[08-Mar-2025 04:02:20 UTC] Invalid url passed to get_utm_ready_link function
+[08-Mar-2025 04:02:24 UTC] Invalid url passed to get_utm_ready_link function
+[08-Mar-2025 04:02:24 UTC] Invalid url passed to get_utm_ready_link function
+[08-Mar-2025 04:05:02 UTC] Invalid url passed to get_utm_ready_link function
+[08-Mar-2025 04:05:02 UTC] Invalid url passed to get_utm_ready_link function
+[08-Mar-2025 04:05:06 UTC] Invalid url passed to get_utm_ready_link function
+[08-Mar-2025 04:05:06 UTC] Invalid url passed to get_utm_ready_link function
+[08-Mar-2025 04:05:06 UTC] Invalid url passed to get_utm_ready_link function
+[08-Mar-2025 04:05:06 UTC] Invalid url passed to get_utm_ready_link function
+[08-Mar-2025 04:05:06 UTC] Invalid url passed to get_utm_ready_link function
+[08-Mar-2025 04:05:06 UTC] Invalid url passed to get_utm_ready_link function
+[08-Mar-2025 04:05:06 UTC] Invalid url passed to get_utm_ready_link function
+[08-Mar-2025 04:05:06 UTC] Invalid url passed to get_utm_ready_link function
+[08-Mar-2025 04:05:06 UTC] Invalid url passed to get_utm_ready_link function
+[08-Mar-2025 04:05:06 UTC] Invalid url passed to get_utm_ready_link function
+[08-Mar-2025 04:05:06 UTC] Invalid url passed to get_utm_ready_link function
+[08-Mar-2025 04:05:06 UTC] Invalid url passed to get_utm_ready_link function
+[08-Mar-2025 04:05:06 UTC] Invalid url passed to get_utm_ready_link function
+[08-Mar-2025 04:05:06 UTC] Invalid url passed to get_utm_ready_link function
+[08-Mar-2025 04:05:06 UTC] Invalid url passed to get_utm_ready_link function
+[08-Mar-2025 04:05:06 UTC] Invalid url passed to get_utm_ready_link function
+[08-Mar-2025 04:05:06 UTC] Invalid url passed to get_utm_ready_link function
+[08-Mar-2025 04:05:06 UTC] Invalid url passed to get_utm_ready_link function
+[08-Mar-2025 04:05:06 UTC] Invalid url passed to get_utm_ready_link function
+[08-Mar-2025 04:05:06 UTC] Invalid url passed to get_utm_ready_link function
+[08-Mar-2025 04:05:06 UTC] Invalid url passed to get_utm_ready_link function
+[08-Mar-2025 04:05:06 UTC] Invalid url passed to get_utm_ready_link function
+[08-Mar-2025 04:05:07 UTC] PHP Warning:  strtotime(): Epoch doesn't fit in a PHP integer in /workspaces/UX221Assignment2/.wordpress/wp-includes/media.php on line 4494
+[08-Mar-2025 04:05:07 UTC] PHP Warning:  strtotime(): Epoch doesn't fit in a PHP integer in /workspaces/UX221Assignment2/.wordpress/wp-includes/media.php on line 4495
+[08-Mar-2025 04:05:12 UTC] Invalid url passed to get_utm_ready_link function
+[08-Mar-2025 04:05:12 UTC] Invalid url passed to get_utm_ready_link function
+[08-Mar-2025 04:06:34 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/UX221Assignment2/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
+[08-Mar-2025 04:25:43 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/UX221Assignment2/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
